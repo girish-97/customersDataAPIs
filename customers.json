@@ -1,0 +1,7 @@
+[
+  { "id": 1, "first_name": "Hardik", "last_name": "Patel", "city": "Surat", "company": "Myglamm" },
+  { "id": 2, "first_name": "Aman", "last_name": "Thakur", "city": "Kolkate", "company": "SRide" },
+  { "id": 3, "first_name": "Kanchan", "last_name": "Anthwal", "city": "Ahmedabad", "company": "Infosys" },
+  { "id": 4, "first_name": "Sumit", "last_name": "Sale", "city": "Ahmedabad", "company": "TCS" },
+  { "id": 5, "first_name": "Shraddha", "last_name": "Kumar", "city": "Ahmedabad", "company": "Cognizant" }
+]
