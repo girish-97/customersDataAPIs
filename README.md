@@ -8,7 +8,7 @@ This project is a simple Node.js RESTful API for managing customer data.
 
 1. **Clone the repository:**
 
-   git clone <repository_url>
+   git clone <https://github.com/girish-97/customersDataAPIs>
 ## Running the Server
 
 To run the server locally, follow these steps:
